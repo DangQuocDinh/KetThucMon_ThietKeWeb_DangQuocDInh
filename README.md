@@ -182,7 +182,7 @@ Họ và tên:  Đặng Quốc Định
 Mã số sinh viên: 110124034
 Lớp: DA24TTA
 Tên đề tài: Danh mục xe Hybrid
-Liên kết GitHub repository:
-Liên kết GitHub Pages:
+Liên kết GitHub repository:https://github.com/DangQuocDinh/KetThucMon_ThietKeWeb_DangQuocDInh
+Liên kết GitHub Pages:https://dangquocdinh.github.io/KetThucMon_ThietKeWeb_DangQuocDInh/
 ```
 "# KetThucMon_ThietKeWeb_DangQuocDInh" 
